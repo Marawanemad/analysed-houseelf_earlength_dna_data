@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # Name : Marawan Emad Ibrahim
-# # ID   : 20201498249
-# # lab  : 306 G1
 
 # In[12]:
 
